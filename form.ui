@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>392</width>
-    <height>803</height>
+    <height>898</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -24,15 +24,16 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>10</y>
+      <y>40</y>
       <width>371</width>
-      <height>758</height>
+      <height>826</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <family>Montserrat SemiBold</family>
       <pointsize>14</pointsize>
+      <weight>75</weight>
       <bold>true</bold>
      </font>
     </property>
@@ -45,53 +46,12 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
          <property name="text">
           <string>Простые числа:</string>
-         </property>
-        </widget>
-       </item>
-       <item row="1" column="0">
-        <widget class="QLabel" name="label_2">
-         <property name="font">
-          <font>
-           <family>Montserrat SemiBold</family>
-           <pointsize>14</pointsize>
-           <bold>true</bold>
-          </font>
-         </property>
-         <property name="text">
-          <string>Публичный ключ:</string>
-         </property>
-        </widget>
-       </item>
-       <item row="2" column="0">
-        <widget class="QLabel" name="label_4">
-         <property name="font">
-          <font>
-           <family>Montserrat SemiBold</family>
-           <pointsize>14</pointsize>
-           <bold>true</bold>
-          </font>
-         </property>
-         <property name="text">
-          <string>Открытая экспонента:</string>
-         </property>
-        </widget>
-       </item>
-       <item row="3" column="0">
-        <widget class="QLabel" name="label_3">
-         <property name="font">
-          <font>
-           <family>Montserrat SemiBold</family>
-           <pointsize>14</pointsize>
-           <bold>true</bold>
-          </font>
-         </property>
-         <property name="text">
-          <string>Приватный ключ:</string>
          </property>
         </widget>
        </item>
@@ -101,8 +61,24 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0">
+        <widget class="QLabel" name="label_2">
+         <property name="font">
+          <font>
+           <family>Montserrat SemiBold</family>
+           <pointsize>14</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="text">
+          <string>Публичный ключ:</string>
          </property>
         </widget>
        </item>
@@ -112,8 +88,24 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="0">
+        <widget class="QLabel" name="label_4">
+         <property name="font">
+          <font>
+           <family>Montserrat SemiBold</family>
+           <pointsize>14</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="text">
+          <string>Открытая экспонента:</string>
          </property>
         </widget>
        </item>
@@ -123,8 +115,24 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
+         </property>
+        </widget>
+       </item>
+       <item row="3" column="0">
+        <widget class="QLabel" name="label_3">
+         <property name="font">
+          <font>
+           <family>Montserrat SemiBold</family>
+           <pointsize>14</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="text">
+          <string>Приватный ключ:</string>
          </property>
         </widget>
        </item>
@@ -134,6 +142,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -145,6 +154,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -184,6 +194,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -195,6 +206,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -209,6 +221,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -220,6 +233,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -234,6 +248,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -244,7 +259,8 @@
          <property name="font">
           <font>
            <family>Montserrat SemiBold</family>
-           <pointsize>14</pointsize>
+           <pointsize>9</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -256,6 +272,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -294,7 +311,8 @@
          <property name="font">
           <font>
            <family>Montserrat SemiBold</family>
-           <pointsize>14</pointsize>
+           <pointsize>9</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -306,6 +324,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -320,6 +339,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -331,6 +351,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -345,6 +366,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -356,6 +378,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -367,6 +390,7 @@
           <font>
            <family>Montserrat SemiBold</family>
            <pointsize>14</pointsize>
+           <weight>75</weight>
            <bold>true</bold>
           </font>
          </property>
@@ -379,6 +403,72 @@
      </item>
     </layout>
    </widget>
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>371</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="lineEdit_9">
+       <property name="font">
+        <font>
+         <family>Montserrat SemiBold</family>
+         <pointsize>14</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QLabel" name="label_10">
+       <property name="font">
+        <font>
+         <family>Montserrat SemiBold</family>
+         <pointsize>14</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="text">
+        <string>q</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QLabel" name="label_9">
+       <property name="font">
+        <font>
+         <family>Montserrat SemiBold</family>
+         <pointsize>14</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="text">
+        <string>p</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QLineEdit" name="lineEdit_10">
+       <property name="font">
+        <font>
+         <family>Montserrat SemiBold</family>
+         <pointsize>14</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -386,7 +476,7 @@
      <x>0</x>
      <y>0</y>
      <width>392</width>
-     <height>22</height>
+     <height>21</height>
     </rect>
    </property>
    <widget class="QMenu" name="menu">
@@ -396,12 +486,16 @@
     <addaction name="action_2"/>
     <addaction name="action"/>
     <addaction name="action_3"/>
+    <addaction name="action_4"/>
    </widget>
    <addaction name="menu"/>
   </widget>
   <action name="action">
    <property name="text">
     <string>Сохранить</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
    </property>
   </action>
   <action name="action_2">
@@ -412,6 +506,19 @@
   <action name="action_3">
    <property name="text">
     <string>Закрыть</string>
+   </property>
+  </action>
+  <action name="action_4">
+   <property name="text">
+    <string>Очистить</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+L</string>
+   </property>
+  </action>
+  <action name="action_5">
+   <property name="text">
+    <string>ыва</string>
    </property>
   </action>
  </widget>

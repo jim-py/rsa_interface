@@ -1,0 +1,1 @@
+pyuic5 form2.ui -o form2.py
